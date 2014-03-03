@@ -1,7 +1,7 @@
 {
   "name": "gulp-scenario",
   "version": "0.0.0",
-  "description": "",
+  "description": "register gulp task",
   "repository": "https://github.com/achamaro/gulp-scenario.git",
   "author": "achamaro",
   "keywords": [
