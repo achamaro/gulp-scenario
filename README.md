@@ -1,5 +1,11 @@
 [![Build Status](https://travis-ci.org/achamaro/gulp-scenario.png?branch=master)](https://travis-ci.org/achamaro/gulp-scenario)
 
+## Installation
+
+```
+$ npm install gulp-scenario --save-dev
+```
+
 ## Usage
 
 ```javascript
